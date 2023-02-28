@@ -1,23 +1,23 @@
 ﻿# RFIDAZURE_1
  <br><br>
 ## Home Project of RFID tracking, MS Azure SQL Database storage and WebApp Presentation
- <br>
- The motive for the tracker is to keep track of items tagged with RFID tags. <br>
-            Project is compartmentalised into microcontroler (Esp32 in C) and cloud part (Azure IoTHub, SQL database and Python/HTML on Azure Webbapp). <br>
+ <br> <br>
+ The motive for the tracker is to keep track of items tagged with RFID tags. <br> <br>
+            Project is compartmentalised into microcontroler (Esp32 in C) and cloud part (Azure IoTHub, SQL database and Python/HTML on Azure Webbapp). <br> <br>
             In this repository is the code for ESP32 microcontroller with required dependencies. 
- <br>
-        <p> 
+ <br> <br>
+
             The sequence of whole process is as follows:
             <br><span style="font-weight: bold">
-            RFID tagged items are registered by RFID reader and ESP32 microcontroller. 
+            1.RFID tagged items are registered by RFID reader and ESP32 microcontroller. 
             <br>
-            Each entry is sent to Azure cloud IoT hub by ESP32. </span>
+            2.Each entry is sent to Azure cloud IoT hub by ESP32. </span>
             <br>
-            IoT hub events are directed into Azure SQL database via Streaming analytics job. 
+            3.IoT hub events are directed into Azure SQL database via Streaming analytics job. 
             <br>
-            SQL database entries are queried by Python pypyodbc library. 
+            4.SQL database entries are queried by Python pypyodbc library. 
             <br>
-            The data is processed and presented via Python Pandas, Plotly and Flask libraries on webpage hosted by Azure Web App.  </p>
+            5.The data is processed and presented via Python Pandas, Plotly and Flask libraries on webpage hosted by Azure Web App. 
             <br>
             
  <span align="middle"> <br>
