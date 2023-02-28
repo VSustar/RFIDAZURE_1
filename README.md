@@ -3,7 +3,7 @@
 ## Home Project of RFID tracking, MS Azure SQL Database storage and WebApp Presentation
  <br> <br>
  The motive for the tracker is to keep track of items tagged with RFID tags. <br> <br>
-            Project is compartmentalised into microcontroler (Esp32 in C) and cloud part (Azure IoTHub, SQL database and Python/HTML on Azure Webbapp). <br> <br>
+            Project is compartmentalised into microcontroller (Esp32 in C) and cloud part (Azure IoTHub, SQL database and Python/HTML on Azure Webbapp). <br> <br>
             In this repository is the code for ESP32 microcontroller with required dependencies. 
  <br> <br>
 
