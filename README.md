@@ -8,11 +8,11 @@
 <br><br>
 <span align="middle"> <br>
  * The diagram of pin connections for this code </span> 
-<span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/RFID%20diagram3ESP32_PINS.png" width="100%"/></span> 
+<span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/RFID%20diagram3ESP32_PINS.png" width="50%"/></span> 
 <br><br>
 <span align="middle"><br> 
  * Actuall setup photo of RFID reader with ESP32 connected via breadboard</span>  
-<span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/IMG_20230228_105013_647.jpg" width="100%"/></span>
+<span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/IMG_20230228_105013_647.jpg" width="50%"/></span>
 
 ## Link to the Webpage part of the code
 
