@@ -15,5 +15,6 @@
 <span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/IMG_20230228_105013_647.jpg" width="50%"/></span>
 
 ## Link to the Webpage part of the code
-
+See [Wiki](https://github.com/luc-github/ESP3D/wiki/Install-Instructions)
 ## Link to the Vid Sustar's RFID tracker WebPage
+See [Wiki](https://github.com/luc-github/ESP3D/wiki/Install-Instructions)
