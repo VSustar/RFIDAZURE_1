@@ -8,17 +8,17 @@
  <br> <br>
 
             The sequence of whole process is as follows:
-            <br><span style="font-weight: bold">
+
             1.RFID tagged items are registered by RFID reader and ESP32 microcontroller. 
-            <br>
+
             2.Each entry is sent to Azure cloud IoT hub by ESP32. </span>
-            <br>
+
             3.IoT hub events are directed into Azure SQL database via Streaming analytics job. 
-            <br>
+
             4.SQL database entries are queried by Python pypyodbc library. 
-            <br>
+
             5.The data is processed and presented via Python Pandas, Plotly and Flask libraries on webpage hosted by Azure Web App. 
-            <br>
+
             
  <span align="middle"> <br>
  * Microcontroller part of the code for RFID tracking to AZURE SQL DB and WebAPP data presentation with Python Pandas, Plotly and Flask</span>  
