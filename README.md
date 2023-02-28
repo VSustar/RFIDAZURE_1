@@ -22,7 +22,7 @@
             
  <span align="middle"> <br>
  * Microcontroller part of the code for RFID tracking to AZURE SQL DB and WebAPP data presentation with Python Pandas, Plotly and Flask</span>  
-<span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/RFID%20diagram3_ESP32.png" width="100%"/></span>
+<span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/RFID%20diagram3_ESP32_2.png" width="100%"/></span>
 <br><br>
 <span align="middle"> <br>
  * The diagram of pin connections for this code </span> <br>
