@@ -9,6 +9,19 @@
 <span align="middle"> <br>
  * The diagram of pin connections for this code </span> <br>
 <span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/RFID%20diagram3ESP32_PINS.png" width="50%"/></span> 
+<br>
+
+| DEVICE        | ESP32(38pin version| RFID-RC522 |
+| ------------- |:-------------:| -----:|
+| pin           | 3V3| 3.3V |
+| pin      | GND      |  GND |
+| pin|D2    |   RST |
+|pin    | D5    |  SDA |
+|pin | D18     |   SCK|
+|pin    | D19    |  MISO |
+|pin | D23   |   MOSI|
+
+
 <br><br>
 <span align="middle"><br> 
  * Actuall setup photo of RFID reader with ESP32 connected via breadboard</span>  
