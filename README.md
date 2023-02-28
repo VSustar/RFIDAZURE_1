@@ -7,7 +7,7 @@
 <span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/RFID%20diagram3_ESP32.png" width="100%"/></span>
 <br><br>
 <span align="middle"> <br>
- * The diagram of pin connections for this code </span> 
+ * The diagram of pin connections for this code </span> <br>
 <span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/RFID%20diagram3ESP32_PINS.png" width="50%"/></span> 
 <br><br>
 <span align="middle"><br> 
