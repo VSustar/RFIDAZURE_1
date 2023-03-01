@@ -45,9 +45,9 @@
  * Actuall setup photo of RFID reader with ESP32 connected via breadboard</span>  
 <span align="left"><img src="https://github.com/VSustar/RFIDAZURE_1/blob/main/images/IMG_20230228_105013_647.jpg" width="50%"/></span>
 
-### Link to the Webpage part of the code
+## Link to the Webpage part of the code
 See [Github](https://github.com/VSustar/RFIDAZURE_2)
-#### Link to the Vid Sustar's RFID tracker WebPage
+## Link to the Vid Sustar's RFID tracker WebPage
 See [Webpage](https://sustariot.azurewebsites.net/)
 
 ## Main References:
