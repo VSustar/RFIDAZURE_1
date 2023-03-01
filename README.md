@@ -49,3 +49,7 @@
 See [Github](https://github.com/VSustar/RFIDAZURE_2)
 #### Link to the Vid Sustar's RFID tracker WebPage
 See [Webpage](https://sustariot.azurewebsites.net/)
+
+## Main References:
+* RFID from [Miguel André Balboa](https://github.com/miguelbalboa/rfid) and [Xukyo](https://www.aranacorp.com/en/using-an-rfid-module-with-an-esp32/)   
+* Setting up Azure IoT hub communication of telemetry data from [AronAyub](https://sstechsolutioncom.wordpress.com/iot/iot-hub-esp32-dht11/)  
