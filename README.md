@@ -49,7 +49,7 @@
 See [Github](https://github.com/VSustar/RFIDAZURE_2)
 ## Link to the Vid Sustar's RFID tracker WebPage
 See [Webpage](https://sustariot.azurewebsites.net/)
-(Webpage is currently down to preserve the costs... I will recreate the project with home server)
+(Webpage is currently down to preserve the costs... I will recreate the project with VPS)
 
 ## Main References:
 * RFID from [Miguel André Balboa](https://github.com/miguelbalboa/rfid) and [Xukyo](https://www.aranacorp.com/en/using-an-rfid-module-with-an-esp32/)   
